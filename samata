@@ -1,0 +1,7 @@
+hi how r u
+git init
+git status
+touch 1 2 3
+git add 1 2 3
+git status
+git commit -m "commite all file 123"
